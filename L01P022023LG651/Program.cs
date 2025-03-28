@@ -1,5 +1,5 @@
+using L01P022023LG651.Models;
 using Microsoft.EntityFrameworkCore;
-using PracticaMVC.Models;
 
 var builder = WebApplication.CreateBuilder(args);
 

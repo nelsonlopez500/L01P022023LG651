@@ -1,7 +1,7 @@
 ﻿using L01P022023LG651.Models;
 using Microsoft.EntityFrameworkCore;
 
-namespace PracticaMVC.Models
+namespace L01P022023LG651.Models
 {
     public class equiposDbContext: DbContext
     {
